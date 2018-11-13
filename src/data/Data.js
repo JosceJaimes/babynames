@@ -1006,3 +1006,4 @@ export default [
     meaning:'bendito'
   }
 ]
+
